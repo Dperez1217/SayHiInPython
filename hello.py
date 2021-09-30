@@ -1,1 +1,5 @@
 print "hello my name is daniel"
+print "hello my name is daniel"
+print "hello my name is daniel"
+print "hello my name is dnaiel"
+print "hello my name is daniel"
